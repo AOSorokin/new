@@ -3,7 +3,8 @@ public class Main {
         int wow = 55;
         int kok = 20;
         int sos = 30;
-        int hjh = 22;
+        int hjh = 20;
+        int ghg = 44;
 
     }
 }
