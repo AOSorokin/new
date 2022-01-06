@@ -5,6 +5,8 @@ public class Main {
         int sos = 30;
         int hjh = 20;
         int ghg = 44;
+        int hoh = 50;
+
 
     }
 }
