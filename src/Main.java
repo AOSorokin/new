@@ -7,6 +7,5 @@ public class Main {
         int ghg = 44;
         int hoh = 50;
 
-
     }
 }
